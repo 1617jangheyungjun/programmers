@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "가장 큰 수 찾기/1.0.0": {
+        "runtime": {
+          "가장 큰 수 찾기.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "가장 큰 수 찾기/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
