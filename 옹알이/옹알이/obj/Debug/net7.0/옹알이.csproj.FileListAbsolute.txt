@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\bin\Debug\net7.0\옹알이.exe
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\bin\Debug\net7.0\옹알이.deps.json
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\bin\Debug\net7.0\옹알이.runtimeconfig.json
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\bin\Debug\net7.0\옹알이.dll
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\bin\Debug\net7.0\옹알이.pdb
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\obj\Debug\net7.0\옹알이.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\obj\Debug\net7.0\옹알이.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\obj\Debug\net7.0\옹알이.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\obj\Debug\net7.0\옹알이.AssemblyInfo.cs
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\obj\Debug\net7.0\옹알이.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\obj\Debug\net7.0\옹알이.dll
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\obj\Debug\net7.0\refint\옹알이.dll
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\obj\Debug\net7.0\옹알이.pdb
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\obj\Debug\net7.0\옹알이.genruntimeconfig.cache
+C:\Users\user\Desktop\프로그래머스\옹알이\옹알이\obj\Debug\net7.0\ref\옹알이.dll

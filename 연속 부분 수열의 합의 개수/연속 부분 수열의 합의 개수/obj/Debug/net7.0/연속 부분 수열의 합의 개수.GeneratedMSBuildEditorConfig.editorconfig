@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = 다음에_올_수_찾기
-build_property.ProjectDir = c:\Users\user\Desktop\프로그래머스\가장 큰 수 찾기\다음에 올 수 찾기\다음에 올 수 찾기\
+build_property.RootNamespace = 연속_부분_수열의_합의_개수
+build_property.ProjectDir = C:\Users\user\Desktop\프로그래머스\연속 부분 수열의 합의 개수\연속 부분 수열의 합의 개수\

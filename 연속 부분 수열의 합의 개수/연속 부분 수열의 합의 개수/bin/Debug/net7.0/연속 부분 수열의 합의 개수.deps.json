@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "연속 부분 수열의 합의 개수/1.0.0": {
+        "runtime": {
+          "연속 부분 수열의 합의 개수.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "연속 부분 수열의 합의 개수/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
